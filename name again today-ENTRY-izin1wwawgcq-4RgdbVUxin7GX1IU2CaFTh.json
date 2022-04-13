@@ -1,0 +1,25 @@
+{
+  
+    "smartling" : {
+  "placeholder_format_custom": ["\\^\\^.*?\\^\\^"]
+  },
+  "fields" : {
+    "anotherWord" : {
+      "en-US" : "this is a sentence to be translated",
+      "character_limit" : 255
+    },
+    "firstString" : {
+      "en-US" : "name again today",
+      "character_limit" : 255
+    },
+    "newField" : {
+      "en-US" : {
+        "{{new}} one" : "{{new}} field"
+      }
+    },
+    "testingContent" : {
+      "en-US" : "hello ^^world^^",
+      "character_limit" : 255
+    }
+  }
+}
