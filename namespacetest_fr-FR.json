@@ -1,4 +1,5 @@
 {
-  "name space test" : "mot est le nouveau monde",
-  "name space test two" : "mot est le nouveau monde"
+"name space test": "word is the new world",
+"name space test two": "word is the old world"
+"three": « problème zendesk »
 }
