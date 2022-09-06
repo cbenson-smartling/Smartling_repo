@@ -1,0 +1,15 @@
+---
+negative: "Non, non"
+positive: "Oui, oui"
+access_denied: "Accès refusé"
+account: "Compte : %s"
+account: "Page #%d"
+action: "Action à effectuer"
+actions: 
+    cancel: "Annuler l'abonnement"
+    create: "Créer"
+    destroy: "Enlever"
+    list: "Listes"
+    new: "Nouveau (New)"
+    update: "Mettre à jour"
+copyright: "© 2012 Tous droits réservés."
