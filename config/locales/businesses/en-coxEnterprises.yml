@@ -12,5 +12,6 @@ actions:
    list: "List"
    new: "New"
    update: "Update"
+   test: "Test"
 copyright: "&copy; 2012 All Rights Reserved."
 
