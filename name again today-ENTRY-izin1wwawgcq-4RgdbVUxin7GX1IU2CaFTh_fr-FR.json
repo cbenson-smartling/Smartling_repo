@@ -1,15 +1,14 @@
 {
-  
-    "smartling" : {
-  "placeholder_format_custom": ["\\^\\^.*?\\^\\^"]
+  "smartling" : {
+    "placeholder_format_custom" : ["\\^\\^.*?\\^\\^"]
   },
   "fields" : {
     "anotherWord" : {
-      "en-US" : « c’est une phrase à traduire »,
+      "en-US" : "this is a sentence to be translated",
       "character_limit" : 255
     },
     "firstString" : {
-      "en-US" : "Nom à nouveau aujourd''hui",
+      "en-US" : "name again today",
       "character_limit" : 255
     },
     "newField" : {
@@ -18,7 +17,7 @@
       }
     },
     "testingContent" : {
-      "en-US" : « bonjour ^^monde^^ »,
+      "en-US" : "hello ^^world^^",
       "character_limit" : 255
     }
   }
