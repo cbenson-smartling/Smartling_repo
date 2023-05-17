@@ -1,0 +1,22 @@
+{
+  "course.email.salutation": "Guten Tag %title% %name%",
+  "course.email.intro": "Vielen Dank für Ihre Anmeldung. Gerne bestätigen wir Ihnen, dass Sie zur oben genannten Veranstaltung angemeldet sind:",
+  "course.email.event.time": "Wir freuen uns, Sie am <strong>%day%, um %time% Uhr</strong> begrüssen zu dürfen.",
+  "course.email.unsubscribes": "Mündlich- oder schriftliche Abmeldungen nimmt das Kursmanagement bis 14 Tage vor Kursbeginn ohne Kostenfolge entgegen, danach bleibt das Kursgeld zu 100% geschuldet, mindestens aber CHF 100.--. Es kann eine Ersatzperson aufgeboten werden.",
+  "course.email.greetings": "Freundliche Grüsse",
+  "course.email.documents": "Die Kursunterlagen erhalten Sie am Kurstag.",
+  "course.email.asseproclient": "Ja, ich/wir sind Kunde von ASSEPRO",
+  "course.email.riskclient": "Ja, ich/wir sind ASSEPRO Health & Safety Mitglied",
+  "course.email.remarks": "Bemerkungen",
+  "course.email.internal.salutation": "Hallo %name%",
+  "course.email.internal.intro": "Vielen Dank für Deine Anmeldung zur oben genannten Veranstaltung.",
+  "course.email.internal.event.time": "Wir freuen uns, Dich am <strong>%day%, um %time% Uhr</strong> begrüssen zu dürfen.",
+  "course.email.internal.unsubscribes": "An- und Abmeldungen nimmt das Kursmanagement bis 5 Tage vor Veranstaltung entgegen.",
+  "course.email.certificate.thankyou": "Vielen Dank für Ihre Teilnahme am Kurs \"%title%\". Anbei erhalten Sie Ihre Kursbestätigung.",
+  "course.email.certificate.future": "Wir würden uns freuen, Sie auch künftig wieder als Teilnehmer an einem unserer Kurse empfangen zu dürfen.",
+  "course.email.certificate.questions": "Bei Fragen stehen wir Ihnen in der Zwischenzeit gerne zur Verfügung.",
+  "course.registration.confirmation": "Anmeldebestätigung",
+  "course.phone": "Telefon",
+  "course.email": "E-Mail",
+  "course.confirmation": "Kursbestätigung"
+}
