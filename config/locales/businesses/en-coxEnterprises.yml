@@ -1,5 +1,6 @@
 ---
 negative: "No"
+hello: "Hello"
 positive: "Yes"
 access_denied: "Access denied"
 account: "Account: %s"
